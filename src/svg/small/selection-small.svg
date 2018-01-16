@@ -22,7 +22,7 @@
      id="defs4" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -98,14 +98,14 @@
      inkscape:label="Layer 2"
      style="display:inline">
     <rect
-       style="fill:#c0daff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.97959185;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4137"
-       width="48"
-       height="48"
-       x="8"
-       y="-56"
-       rx="1.318249"
-       ry="1.293609"
+       width="47.020409"
+       height="47.020409"
+       x="8.4897957"
+       y="-55.510204"
+       rx="1.2913458"
+       ry="1.2672088"
        transform="scale(1,-1)" />
   </g>
 </svg>

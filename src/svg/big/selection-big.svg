@@ -33,7 +33,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -107,13 +107,13 @@
      inkscape:label="Layer 2"
      style="display:inline">
     <rect
-       style="display:inline;opacity:1;fill:#c0daff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.99994302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="rect4367-9"
-       width="132"
-       height="132"
-       x="6"
-       y="6"
-       rx="2.0000002"
-       ry="2.0000002" />
+       width="131.00006"
+       height="131.00006"
+       x="6.4999714"
+       y="6.4999733"
+       rx="1.9848497"
+       ry="1.9848493" />
   </g>
 </svg>
