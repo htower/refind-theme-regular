@@ -1,4 +1,4 @@
-# rEFInd theme Regular
+# rEFInd theme Regular-Black
 
 A simplistic clean and minimal theme for rEFInd
 
@@ -11,7 +11,7 @@ A simplistic clean and minimal theme for rEFInd
 
 1. Clone git repository to your $HOME directory.
    ```
-   git clone https://github.com/munlik/refind-theme-regular.git
+   git clone https://github.com/htower/refind-theme-regular-black.git
    ```
 
 2. Locate refind directory under EFI partition. For most Linux based system is commonly `/boot/efi/EFI/refind/`. Copy theme directory to it.
@@ -19,22 +19,22 @@ A simplistic clean and minimal theme for rEFInd
    **Important:** Delete older installed versions of this theme before you proceed any further.
 
    ```
-   sudo rm -rf /boot/efi/EFI/refind/{regular-theme,refind-theme-regular}
+   sudo rm -rf /boot/efi/EFI/refind/refind-theme-regular-black
    ```
    ```
-   sudo cp -r refind-theme-regular /boot/efi/EFI/refind/
+   sudo cp -r refind-theme-regular-black /boot/efi/EFI/refind/
    ```
 3. Remove unused directory.
    ```
-   sudo rm -rf /boot/efi/EFI/refind/refind-theme-regular/{src,.git}
+   sudo rm -rf /boot/efi/EFI/refind/refind-theme-regular-black/{src,.git,.gitignore}
    ```
 
 4. To adjust icon size and font size edit `theme.conf`.
    ```
-   sudo nano /boot/efi/EFI/refind/refind-theme-regular/theme.conf
+   sudo nano /boot/efi/EFI/refind/refind-theme-regular-black/theme.conf
    ```
 
-5. To enable the theme add `include refind-theme-regular/theme.conf` at the end of `refind.conf`.
+5. To enable the theme add `include refind-theme-regular-black/theme.conf` at the end of `refind.conf`.
    ```
    sudo nano /boot/efi/EFI/refind/refind.conf
    ```
