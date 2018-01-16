@@ -22,7 +22,7 @@
      id="defs4" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -82,7 +82,7 @@
      inkscape:label="Layer 2"
      style="display:inline">
     <rect
-       style="opacity:1;fill:#808c99;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4136"
        width="20"
        height="17"
@@ -91,7 +91,7 @@
        rx="1"
        ry="1" />
     <rect
-       style="display:inline;opacity:1;fill:#808c99;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4138-6"
        width="2"
        height="6"
@@ -100,7 +100,7 @@
        rx="0.5"
        ry="0.5" />
     <rect
-       style="display:inline;opacity:1;fill:#808c99;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4138-50"
        width="2"
        height="6"
@@ -109,7 +109,7 @@
        rx="0.5"
        ry="0.5" />
     <rect
-       style="display:inline;opacity:1;fill:#808c99;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4138-73"
        width="2"
        height="6"
@@ -118,7 +118,7 @@
        rx="0.5"
        ry="0.5" />
     <rect
-       style="display:inline;opacity:1;fill:#808c99;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4138-8"
        width="2"
        height="6"

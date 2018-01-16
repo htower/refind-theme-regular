@@ -22,7 +22,7 @@
      id="defs4" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -80,17 +80,17 @@
        id="text4137"
        transform="translate(51.652926,3.2742)" />
     <path
-       style="fill:#808c99;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -57.25,989.8622 a 11,11 0 0 0 -11,11 11,11 0 0 0 11,11 11,11 0 0 0 11,-11 11,11 0 0 0 -11,-11 z m 1.328125,3.2832 c 0.855,0 1.552734,0.6968 1.552734,1.5293 0,0.81 -0.67625,1.46289 -1.53125,1.46289 -0.8325,0 -1.484375,-0.67625 -1.484375,-1.53125 0,-0.7875 0.675391,-1.46094 1.462891,-1.46094 z m 0.673828,4.94922 -2.001953,7.44728 c -0.0675,0.315 -0.179688,0.9459 -0.179688,1.1484 0,0.18 0.157891,0.336 0.337891,0.336 0.3375,0 0.831016,-0.4721 1.416016,-1.3496 l 0.292969,-0.4493 0.496093,0.3145 c -1.53,2.3625 -2.363906,3.0371 -3.691406,3.0371 -0.9225,0 -1.552734,-0.562 -1.552734,-1.3945 0,-0.315 0.113984,-0.9228 0.271484,-1.5528 l 1.259766,-4.7695 c 0.1125,-0.405 0.179687,-0.7429 0.179687,-0.90039 0,-0.4275 -0.360156,-0.65234 -1.035156,-0.65234 l -0.292969,0 0,-0.60743 c 1.755,-0.135 3.285,-0.33742 4.5,-0.60742 z"
        id="path4143"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#808c99;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 24 13 A 11 11 0 0 0 13 24 A 11 11 0 0 0 24 35 A 11 11 0 0 0 35 24 A 11 11 0 0 0 24 13 z M 24 17 A 7 7 0 0 1 31 24 A 7 7 0 0 1 24 31 A 7 7 0 0 1 17 24 A 7 7 0 0 1 24 17 z "
        transform="translate(0,1004.3622)"
        id="path4138" />
     <rect
-       style="fill:#808c99;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4157"
        width="4"
        height="6"
@@ -99,7 +99,7 @@
        rx="0.5"
        ry="0.5" />
     <circle
-       style="fill:#808c99;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4159"
        cx="24"
        cy="1024.3622"

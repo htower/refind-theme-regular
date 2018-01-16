@@ -22,7 +22,7 @@
      id="defs4" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -82,7 +82,7 @@
      inkscape:label="Layer 2"
      style="display:inline">
     <path
-       style="fill:#808c99;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 15 15 C 14.446 15 14 15.446 14 16 L 14 33 C 14 33.554 14.446 34 15 34 L 33 34 C 33.554 34 34 33.554 34 33 L 34 16 C 34 15.446 33.554 15 33 15 L 15 15 z M 17 17.742188 L 21.648438 20.164062 L 21.648438 20.861328 L 17 23 L 17 21.833984 L 20.138672 20.460938 L 17 18.914062 L 17 17.742188 z "
        id="rect4137" />
   </g>

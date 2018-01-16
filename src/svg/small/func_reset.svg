@@ -22,7 +22,7 @@
      id="defs4" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -73,17 +73,17 @@
      inkscape:label="Layer 2"
      style="display:inline">
     <path
-       style="fill:#808c99;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -35.912892,3.6977965 0,2.3300781 a 14,14 0 0 0 -14,14.0000004 14,14 0 0 0 14,14 14,14 0 0 0 14,-14 14,14 0 0 0 -4.107422,-9.892578 l -2.826172,2.826172 a 10,10 0 0 1 2.933594,7.066406 10,10 0 0 1 -10,10 10,10 0 0 1 -10,-10 10,10 0 0 1 10,-10 l 0,2.330078 7.5,-4.3300784 -7.5,-4.3300781 z"
        id="path4140"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#808c99;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 24 13 A 11 11 0 0 0 13 24 A 11 11 0 0 0 24 35 A 11 11 0 0 0 35 24 A 11 11 0 0 0 31.773438 16.226562 L 28.947266 19.052734 A 7 7 0 0 1 31 24 A 7 7 0 0 1 24 31 A 7 7 0 0 1 17 24 A 7 7 0 0 1 24 17 L 24 13 z "
        id="path4135" />
     <path
        sodipodi:type="star"
-       style="fill:#808c99;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4161"
        sodipodi:sides="3"
        sodipodi:cx="26.5"
@@ -98,7 +98,7 @@
        d="M 31.5,15 24,19.330127 24,10.669873 Z"
        inkscape:transform-center-x="-1.25" />
     <rect
-       style="fill:#808c99;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4163"
        width="4"
        height="4"
