@@ -1,5 +1,5 @@
 #!/bin/bash
-rm -rf bitmap
+
 rm -rf icons
 	
 ./render_bitmap.sh

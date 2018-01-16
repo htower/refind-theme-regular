@@ -20,10 +20,8 @@ function render_bitmap(){
     for svgfile in $(ls $SRC_DIR | grep .svg)
         do
             filename=$(echo $svgfile | sed $REG)
-            if [ -f "$OUT_DIR/$filename.png" ]
+            if [ "$SRC_DIR/$svgfile" -nt "$OUT_DIR/$filename.png" ]
                 then
-                    echo "'$OUT_DIR/$filename.png' already exists"
-                else
                     echo "Creating... $OUT_DIR/$filename.png"
                 	$INKSCAPE --export-area-page \
                               --export-dpi=$(($SCALE*$DPI)) \
