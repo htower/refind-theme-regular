@@ -2,6 +2,7 @@
 
 A simplistic clean and minimal theme for rEFInd
 
+NOTE: this is a fork of munlik's theme since he seems to have abandoned his project, he didn't answer to (my) PRs on github for years.
 
 ![Screenshot 01](https://i.imgur.com/o0woNwY.png)
 **press F10 to take screenshot
@@ -49,12 +50,12 @@ A simplistic clean and minimal theme for rEFInd
 
 3. Install inkskape and optipng in your linux system as they will be needed to process the icons by the next step.
 
-4. run the script /src/render_bitmap.sh that will process the svg files and generate the png files at various sizes.
+4. cd in the ./src directory and run the script ./render_bitmap.sh that will process the svg files and generate the png files at various sizes.
 
-5. copy the png icons you generated from their /src/bitmap subfolder into the appropriate /icons subfolder for their size
+5. copy the png icons you generated from their /src/bitmap subfolder into the appropriate /icons subfolders for their size by running ./copy-bitmap.sh
 
 6. commit your changes, upload to your fork and then open a PR.
 
 **More information**
 
-[rEFInd](http://www.rodsbooks.com/refind/) An official rEFInd website
+[rEFInd](http://www.rodsbooks.com/refind/) The official rEFInd website
