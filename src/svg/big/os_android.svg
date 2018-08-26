@@ -14,7 +14,7 @@
    viewBox="0 0 128 128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="os_android.svg">
   <defs
      id="defs4" />
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.1484374"
-     inkscape:cx="57.184847"
-     inkscape:cy="57.283149"
+     inkscape:zoom="5.8667764"
+     inkscape:cx="30.361288"
+     inkscape:cy="64.115847"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-width="2560"
+     inkscape:window-height="1330"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="50"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -54,6 +54,10 @@
      id="layer2"
      inkscape:label="Layer 2"
      style="display:inline">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.34015751;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 36.306137,40.217552 h 55.226238 v 17.72694 H 36.306137 Z"
+       id="rect822" />
     <path
        style="fill:#91c653;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 63.992188,23.999553 A 43.039765,44.428189 0 0 0 21,67.462444 l 0,5 0,27.537111 c 0,2.216005 1.784,4.000005 4,4.000005 l 78,0 c 2.216,0 4,-1.784 4,-4.000005 l 0,-28.537111 0,-4 A 43.039765,44.428189 0 0 0 63.992188,23.999553 Z M 45.525391,43.696819 a 5.0860207,5.0860207 0 0 1 5.085937,5.085937 5.0860207,5.0860207 0 0 1 -5.085937,5.085938 5.0860207,5.0860207 0 0 1 -5.085938,-5.085938 5.0860207,5.0860207 0 0 1 5.085938,-5.085937 z m 36.949218,0 a 5.0860207,5.0860207 0 0 1 5.085938,5.085937 5.0860207,5.0860207 0 0 1 -5.085938,5.085938 5.0860207,5.0860207 0 0 1 -5.085937,-5.085938 5.0860207,5.0860207 0 0 1 5.085937,-5.085937 z"
